@@ -1,0 +1,58 @@
+{
+  "widths": [
+    {
+      "width": 320,
+      "violations": [],
+      "overflow": false,
+      "navTargets": [
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    {
+      "width": 390,
+      "violations": [],
+      "overflow": false,
+      "navTargets": [
+        48,
+        48,
+        48,
+        48
+      ]
+    },
+    {
+      "width": 768,
+      "violations": [],
+      "overflow": false,
+      "navTargets": [
+        44,
+        44,
+        44,
+        44
+      ]
+    },
+    {
+      "width": 1440,
+      "violations": [],
+      "overflow": false,
+      "navTargets": [
+        44,
+        44,
+        44,
+        44
+      ]
+    }
+  ],
+  "favicon": {
+    "width": 256,
+    "height": 256,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
