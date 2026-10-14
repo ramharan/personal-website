@@ -1,0 +1,902 @@
+{
+  "sourceRevision": "1da73febff0c3e1dfefc07f8a5ef8f7d1dfdb6cd",
+  "skills": [
+    "aframe-webxr",
+    "animated-component-libraries",
+    "animejs",
+    "babylonjs-engine",
+    "barba-js",
+    "blender-web-pipeline",
+    "gsap-scrolltrigger",
+    "lightweight-3d-effects",
+    "locomotive-scroll",
+    "lottie-animations",
+    "modern-web-design",
+    "motion-framer",
+    "pixijs-2d",
+    "playcanvas-engine",
+    "react-spring-physics",
+    "react-three-fiber",
+    "rive-interactive",
+    "scroll-reveal-libraries",
+    "skill-creator",
+    "spline-interactive",
+    "substance-3d-texturing",
+    "threejs-webgl",
+    "web3d-integration-patterns"
+  ],
+  "files": [
+    {
+      "skill": "aframe-webxr",
+      "file": "aframe-webxr--06fd3bd39b/SKILL.md",
+      "sha256": "efa99e1b5148c7aafe5f0632f24e4357dff20bc3641e34ec13587d003b89ba13",
+      "bytes": 27341
+    },
+    {
+      "skill": "aframe-webxr",
+      "file": "aframe-webxr--06fd3bd39b/references/webxr_guide.md",
+      "sha256": "8ce6121a3bdb2a23e112c78ad8d400675c16176536a000cb75d87b8413dcae8e",
+      "bytes": 23138
+    },
+    {
+      "skill": "aframe-webxr",
+      "file": "aframe-webxr--06fd3bd39b/references/api_reference.md",
+      "sha256": "345c9875e80d670a2005d3d2cca04242e2597a75ac73dbabc7b7c00e277db8cb",
+      "bytes": 26551
+    },
+    {
+      "skill": "aframe-webxr",
+      "file": "aframe-webxr--06fd3bd39b/references/components_library.md",
+      "sha256": "759e9c9662e50177b7ea771b3daa0a6173a77dfde0620aece863fd4cfbafad4e",
+      "bytes": 17326
+    },
+    {
+      "skill": "animated-component-libraries",
+      "file": "animated-component-libraries--0c7865e9df/SKILL.md",
+      "sha256": "d47558883373e7ea40bea8c6d366c8c8196671ebc12436621afa31ebe84a53a4",
+      "bytes": 22597
+    },
+    {
+      "skill": "animated-component-libraries",
+      "file": "animated-component-libraries--0c7865e9df/references/customization_guide.md",
+      "sha256": "68b7390ed1c909579e6d57f2ad52c8d0b62da54a4fcda5b04a4bf249ad436ea6",
+      "bytes": 13895
+    },
+    {
+      "skill": "animated-component-libraries",
+      "file": "animated-component-libraries--0c7865e9df/references/react_bits_components.md",
+      "sha256": "b2184558f6d10ce3a825660a9652e181792b595adf442d788e554032efe183ec",
+      "bytes": 15557
+    },
+    {
+      "skill": "animated-component-libraries",
+      "file": "animated-component-libraries--0c7865e9df/references/magic_ui_components.md",
+      "sha256": "7c54ad7d3e805f5ccd7ab8d63ca1547967ce043a4d25c0b57a7d5fa69c9cf46c",
+      "bytes": 10025
+    },
+    {
+      "skill": "animejs",
+      "file": "animejs--06a1ea9dd0/SKILL.md",
+      "sha256": "174bfb2676bfd49611ff71fa0205b7d1130e7bb0caba45923cd61946201cf8ac",
+      "bytes": 10775
+    },
+    {
+      "skill": "animejs",
+      "file": "animejs--06a1ea9dd0/references/timeline_guide.md",
+      "sha256": "87c18105ba5b7eb62b2ee6c248de3d19f341bfee2c1cf4b31563a3634d6b948b",
+      "bytes": 10621
+    },
+    {
+      "skill": "animejs",
+      "file": "animejs--06a1ea9dd0/references/api_reference.md",
+      "sha256": "32f89639cafaf96bce00f66ec4e530455cef6e01f6c7704ea8ddac52d9c7f13b",
+      "bytes": 10483
+    },
+    {
+      "skill": "animejs",
+      "file": "animejs--06a1ea9dd0/references/stagger_guide.md",
+      "sha256": "4c9b427ca185c8c3dd8a7f2842e3eb6c109f9959db28207b580cea36a4fdfe1a",
+      "bytes": 9161
+    },
+    {
+      "skill": "babylonjs-engine",
+      "file": "babylonjs-engine--0ac2786d78/SKILL.md",
+      "sha256": "007f9d03ac0f308179a9147b99562658ead6ca9f6fa9b7abbcb07dd26e9f18a5",
+      "bytes": 31117
+    },
+    {
+      "skill": "babylonjs-engine",
+      "file": "babylonjs-engine--0ac2786d78/references/api_reference.md",
+      "sha256": "3d9a7652f57b632b3e0296685f7c692a29dd9cd0821420f886c02e1aec2633ff",
+      "bytes": 41609
+    },
+    {
+      "skill": "barba-js",
+      "file": "barba-js--23cd7f4a6a/SKILL.md",
+      "sha256": "505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434",
+      "bytes": 19598
+    },
+    {
+      "skill": "barba-js",
+      "file": "barba-js--23cd7f4a6a/references/transition_patterns.md",
+      "sha256": "553517721b9eed5a32eea858c069c5d9863af5e93ff73cd460ef1ffc1a589a72",
+      "bytes": 16742
+    },
+    {
+      "skill": "barba-js",
+      "file": "barba-js--23cd7f4a6a/references/gsap_integration.md",
+      "sha256": "bebc91dd755aa9e4ac1ea7850923642b77cec14ad8b955c60da80c031211adfb",
+      "bytes": 16066
+    },
+    {
+      "skill": "barba-js",
+      "file": "barba-js--23cd7f4a6a/references/api_reference.md",
+      "sha256": "96d6b39eaafb12d764138952af763c7726e5862b2bf7c35e1328f22597db23fc",
+      "bytes": 23282
+    },
+    {
+      "skill": "barba-js",
+      "file": "barba-js--23cd7f4a6a/references/hooks_guide.md",
+      "sha256": "6264b09a80f8f1d153254a390286906582c8f75fe2780a16b50d49676b6d3863",
+      "bytes": 19411
+    },
+    {
+      "skill": "blender-web-pipeline",
+      "file": "blender-web-pipeline--7b74e07989/SKILL.md",
+      "sha256": "788e4c2fa8d559b5f682a0c49c87159bed06207fd04119ec6f8c3fc7203a7b4c",
+      "bytes": 16782
+    },
+    {
+      "skill": "blender-web-pipeline",
+      "file": "blender-web-pipeline--7b74e07989/references/optimization_strategies.md",
+      "sha256": "ed35bef1b3b0b23c29acd0e876f55d96df5eabb475960a6109c9ad0b0eafb1a6",
+      "bytes": 1564
+    },
+    {
+      "skill": "blender-web-pipeline",
+      "file": "blender-web-pipeline--7b74e07989/references/bpy_api_reference.md",
+      "sha256": "da9c0f1e6e26f747e802741805963c877c26145825dcdb148b85bc35d215915c",
+      "bytes": 1825
+    },
+    {
+      "skill": "blender-web-pipeline",
+      "file": "blender-web-pipeline--7b74e07989/references/gltf_export_guide.md",
+      "sha256": "ea8d5c8bf051da0b73954c392dc170e86fa503fcfad12ceee99f0c8aa78161d5",
+      "bytes": 3740
+    },
+    {
+      "skill": "gsap-scrolltrigger",
+      "file": "gsap-scrolltrigger--0e43fc26fa/SKILL.md",
+      "sha256": "8d827576329ffb47e7f434dce71e681627f29c513eefe3698584830f5c90099f",
+      "bytes": 17238
+    },
+    {
+      "skill": "gsap-scrolltrigger",
+      "file": "gsap-scrolltrigger--0e43fc26fa/references/easing_guide.md",
+      "sha256": "ef577a28e07c23520f8caf466bac06b09dd1ba0c56dac6b3fd1f280992050974",
+      "bytes": 16338
+    },
+    {
+      "skill": "gsap-scrolltrigger",
+      "file": "gsap-scrolltrigger--0e43fc26fa/references/common_patterns.md",
+      "sha256": "8156fedddba555d5a8083fcfd6b5f7c771e1cd6472c76bfe6d133696c2b85e09",
+      "bytes": 24473
+    },
+    {
+      "skill": "gsap-scrolltrigger",
+      "file": "gsap-scrolltrigger--0e43fc26fa/references/api_reference.md",
+      "sha256": "e8c8828671be487f18d86fe016dc121dcaf35f01f0e382057bef91df51404fdd",
+      "bytes": 9062
+    },
+    {
+      "skill": "lightweight-3d-effects",
+      "file": "lightweight-3d-effects--0771b5cf54/SKILL.md",
+      "sha256": "d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7",
+      "bytes": 22880
+    },
+    {
+      "skill": "lightweight-3d-effects",
+      "file": "lightweight-3d-effects--0771b5cf54/references/zdog_api.md",
+      "sha256": "79a5065797c8b3c1ab4eff29de05a9aec5005e5bdf659257b12e6e1ad01e4d89",
+      "bytes": 21376
+    },
+    {
+      "skill": "lightweight-3d-effects",
+      "file": "lightweight-3d-effects--0771b5cf54/references/tilt_patterns.md",
+      "sha256": "2ac74c739d645cadf398d10736ec3840adfe6977b7a4dfea66748e1a86c325c3",
+      "bytes": 20892
+    },
+    {
+      "skill": "lightweight-3d-effects",
+      "file": "lightweight-3d-effects--0771b5cf54/references/vantajs_effects.md",
+      "sha256": "ae13e2003ab70fe4959851de855f1f5e83ca533295417868ea1ef88b8696923d",
+      "bytes": 19469
+    },
+    {
+      "skill": "locomotive-scroll",
+      "file": "locomotive-scroll--1206a335c8/SKILL.md",
+      "sha256": "cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553",
+      "bytes": 12368
+    },
+    {
+      "skill": "locomotive-scroll",
+      "file": "locomotive-scroll--1206a335c8/references/gsap_integration.md",
+      "sha256": "87cbf09bc5b47d165aa6e40dbcef146bd60c7dbc1bc66f8cdaef8a9d874f250e",
+      "bytes": 13346
+    },
+    {
+      "skill": "locomotive-scroll",
+      "file": "locomotive-scroll--1206a335c8/references/api_reference.md",
+      "sha256": "46435b9a8752ac41eb492db87d2807e2717a2ba12461bd0e8836f4c045cac8e2",
+      "bytes": 11843
+    },
+    {
+      "skill": "lottie-animations",
+      "file": "lottie-animations--23f5b164dd/SKILL.md",
+      "sha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18",
+      "bytes": 17982
+    },
+    {
+      "skill": "lottie-animations",
+      "file": "lottie-animations--23f5b164dd/references/performance_guide.md",
+      "sha256": "8d3f329d182a57ab32ba3a49f9a61088922db72c3bd7102c7e1b5efa3e8646d9",
+      "bytes": 11607
+    },
+    {
+      "skill": "lottie-animations",
+      "file": "lottie-animations--23f5b164dd/references/api_reference.md",
+      "sha256": "10212983ce93dccb43a630c1764802019e44ca37db86015451778539d5cba8d5",
+      "bytes": 15661
+    },
+    {
+      "skill": "lottie-animations",
+      "file": "lottie-animations--23f5b164dd/references/after_effects_export.md",
+      "sha256": "ed13a1a9ecb2134b45577e63715a0bd1a537c562dd2718eb2f0b8abffd4a140e",
+      "bytes": 9845
+    },
+    {
+      "skill": "modern-web-design",
+      "file": "modern-web-design--30eb030e93/SKILL.md",
+      "sha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24",
+      "bytes": 26596
+    },
+    {
+      "skill": "modern-web-design",
+      "file": "modern-web-design--30eb030e93/references/accessibility_guide.md",
+      "sha256": "cadb32a05f5e9f890dce8e5abf14b13e1da4450d057629f5ca03a98d643fcae9",
+      "bytes": 19842
+    },
+    {
+      "skill": "modern-web-design",
+      "file": "modern-web-design--30eb030e93/references/performance_checklist.md",
+      "sha256": "021be01c9b9b84768b086134c079952001388593097264b4a2ed09f4a47baafe",
+      "bytes": 18722
+    },
+    {
+      "skill": "modern-web-design",
+      "file": "modern-web-design--30eb030e93/references/interaction_patterns.md",
+      "sha256": "edfda5b48c9b94b0ccc966688949caa9665445f95d73937bd0199fd4a95997c2",
+      "bytes": 21720
+    },
+    {
+      "skill": "modern-web-design",
+      "file": "modern-web-design--30eb030e93/references/design_trends_2024.md",
+      "sha256": "c2a69ecb5d7f43da6ea0b604526776be9841ed77d61472a1524025a1daf24d40",
+      "bytes": 20338
+    },
+    {
+      "skill": "motion-framer",
+      "file": "motion-framer--3329d5f9a9/SKILL.md",
+      "sha256": "37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b",
+      "bytes": 21032
+    },
+    {
+      "skill": "motion-framer",
+      "file": "motion-framer--3329d5f9a9/references/api_reference.md",
+      "sha256": "8a71e4d31155d6c0e1c8381cd5a6943f66c262cd07f0da0dbfb09ac9ac7f8bb1",
+      "bytes": 20478
+    },
+    {
+      "skill": "pixijs-2d",
+      "file": "pixijs-2d--3a87ea95ae/SKILL.md",
+      "sha256": "bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d",
+      "bytes": 21108
+    },
+    {
+      "skill": "pixijs-2d",
+      "file": "pixijs-2d--3a87ea95ae/references/performance_guide.md",
+      "sha256": "c4c6a83ff9c85ac60bbbd41669d48f6c077920f9d19e92616ef43ba56877abda",
+      "bytes": 23181
+    },
+    {
+      "skill": "pixijs-2d",
+      "file": "pixijs-2d--3a87ea95ae/references/filters_effects.md",
+      "sha256": "606027aa961c3426a4b49d75860a55b855ef452393abfc4c292ad35588c6342a",
+      "bytes": 19346
+    },
+    {
+      "skill": "pixijs-2d",
+      "file": "pixijs-2d--3a87ea95ae/references/api_reference.md",
+      "sha256": "480e5c64fb42b5069a7dbc0cb70fec652686a86540de2c3e4c3910805f35f4e0",
+      "bytes": 27335
+    },
+    {
+      "skill": "playcanvas-engine",
+      "file": "playcanvas-engine--158eed6377/SKILL.md",
+      "sha256": "5b4abe83ccc3c3c531bc088b210d4b7510610a6a89b0c92df80e7d3f9fcb3622",
+      "bytes": 22829
+    },
+    {
+      "skill": "playcanvas-engine",
+      "file": "playcanvas-engine--158eed6377/references/optimization_guide.md",
+      "sha256": "0b6ad4dc96cf2e9cf45a89dabb43a13a3b4a2370f91cbbd214e65afd91883462",
+      "bytes": 18665
+    },
+    {
+      "skill": "playcanvas-engine",
+      "file": "playcanvas-engine--158eed6377/references/editor_workflow.md",
+      "sha256": "cf07af8d5303e64fe1d5b2f70734372adfdb421ffd4f7067809b0c18573bf4fa",
+      "bytes": 17093
+    },
+    {
+      "skill": "playcanvas-engine",
+      "file": "playcanvas-engine--158eed6377/references/api_reference.md",
+      "sha256": "a31369dae2220b47ce467bf666fc3d98f77b59634c3100dd4b4494492311e844",
+      "bytes": 20381
+    },
+    {
+      "skill": "react-spring-physics",
+      "file": "react-spring-physics--12c44a1f6d/SKILL.md",
+      "sha256": "d47b271de8bebfc0d3ed93076bc49969df7ce0422a0f25f68db50b30cbbd3b9b",
+      "bytes": 11361
+    },
+    {
+      "skill": "react-spring-physics",
+      "file": "react-spring-physics--12c44a1f6d/references/react_spring_api.md",
+      "sha256": "21def6afb7524d89ac6626d8a2bafbe44174b6e53efef68290a91db6ac1efa0b",
+      "bytes": 13151
+    },
+    {
+      "skill": "react-spring-physics",
+      "file": "react-spring-physics--12c44a1f6d/references/popmotion_api.md",
+      "sha256": "c588a2108c88b3077059502c7d8b8313eaa37597ab30e28c925d17caba199422",
+      "bytes": 11493
+    },
+    {
+      "skill": "react-spring-physics",
+      "file": "react-spring-physics--12c44a1f6d/references/physics_guide.md",
+      "sha256": "2736e8e7ef98f1826419f801701a3c1f29482c697f084787aa6b61c69398187c",
+      "bytes": 11611
+    },
+    {
+      "skill": "react-three-fiber",
+      "file": "react-three-fiber--245c96c32e/SKILL.md",
+      "sha256": "f9747e9e93bf939a1eff4a1c845146f38d8f9e06655be58653a9f95f36c342cc",
+      "bytes": 22994
+    },
+    {
+      "skill": "react-three-fiber",
+      "file": "react-three-fiber--245c96c32e/references/api_reference.md",
+      "sha256": "ecc7077520b1e66f3a3e07f7106b834fe01fce733da5a81abd624d382d686c6d",
+      "bytes": 18479
+    },
+    {
+      "skill": "rive-interactive",
+      "file": "rive-interactive--0ca82673ac/SKILL.md",
+      "sha256": "62e7b09412f80d981389f3544bd482ea1d500c74169f579b0b0daac434f9b61d",
+      "bytes": 15744
+    },
+    {
+      "skill": "rive-interactive",
+      "file": "rive-interactive--0ca82673ac/references/api_reference.md",
+      "sha256": "cfd208b3592e3f939a61016a96b78416e36d00c66d60ca3c152340792a671ab7",
+      "bytes": 6953
+    },
+    {
+      "skill": "scroll-reveal-libraries",
+      "file": "scroll-reveal-libraries--45e62e7506/SKILL.md",
+      "sha256": "bb1fcc5e43e398be37a65db9f270d715ae720da796be4a7a8a7090560a7685c9",
+      "bytes": 17120
+    },
+    {
+      "skill": "scroll-reveal-libraries",
+      "file": "scroll-reveal-libraries--45e62e7506/references/animation_catalog.md",
+      "sha256": "7e1d4a397ad1dfdb5beef70ab5f27cbf29cf57985c3f58f752c54638814e4f7a",
+      "bytes": 12597
+    },
+    {
+      "skill": "scroll-reveal-libraries",
+      "file": "scroll-reveal-libraries--45e62e7506/references/aos_api.md",
+      "sha256": "c6ac533d74ae1a159f70577d50b202c452136d1cf1d643ee9145737dace0aede",
+      "bytes": 14552
+    },
+    {
+      "skill": "skill-creator",
+      "file": "skill-creator--49cb01e198/SKILL.md",
+      "sha256": "8c0ce23bb87be91f5b0853c2e9815617c3858b63acdddfe5da47d2c2d3a60816",
+      "bytes": 11547
+    },
+    {
+      "skill": "spline-interactive",
+      "file": "spline-interactive--5eb2ddb68e/SKILL.md",
+      "sha256": "64ca804efead449481d62419cb30365403d421c600514ad94d47afa62799ac46",
+      "bytes": 19539
+    },
+    {
+      "skill": "spline-interactive",
+      "file": "spline-interactive--5eb2ddb68e/references/api_reference.md",
+      "sha256": "fc10cf57b7431b986bd1af892fbf78abacee7e5902b80fffa3dc2f2ce518de05",
+      "bytes": 13071
+    },
+    {
+      "skill": "substance-3d-texturing",
+      "file": "substance-3d-texturing--5262589fde/SKILL.md",
+      "sha256": "89c052fdb27d67031f68178ddbb837a799965d9642b3858be527f4f805840ec8",
+      "bytes": 15927
+    },
+    {
+      "skill": "substance-3d-texturing",
+      "file": "substance-3d-texturing--5262589fde/references/export_presets.md",
+      "sha256": "3f996893382fbde087641d72d6055a2b7165df01220d5322565c7ff7e97280a9",
+      "bytes": 20493
+    },
+    {
+      "skill": "substance-3d-texturing",
+      "file": "substance-3d-texturing--5262589fde/references/python_api_reference.md",
+      "sha256": "4a1a5f4ac0e48aacb4a98323776be02b50a936ce9649fd7719bf8b2a714c6bf0",
+      "bytes": 20148
+    },
+    {
+      "skill": "substance-3d-texturing",
+      "file": "substance-3d-texturing--5262589fde/references/pbr_channel_guide.md",
+      "sha256": "34fd6413ea1c86071963688727be840f81916b395e8b44facfeb780e9a9a1388",
+      "bytes": 17038
+    },
+    {
+      "skill": "threejs-webgl",
+      "file": "threejs-webgl--0b893e18a2/SKILL.md",
+      "sha256": "2fb912c851db124e212afdd2e80b5213f756ca62af6e2eb50de320f6f8ba4f9e",
+      "bytes": 15731
+    },
+    {
+      "skill": "threejs-webgl",
+      "file": "threejs-webgl--0b893e18a2/references/materials_guide.md",
+      "sha256": "b91be979f68e66134b1cad89f780f765574336f341a0813e1e012276660f8e6b",
+      "bytes": 11484
+    },
+    {
+      "skill": "threejs-webgl",
+      "file": "threejs-webgl--0b893e18a2/references/api_reference.md",
+      "sha256": "bfa33ca7913f94b2b4404cd640daf443193e81b85029e9bbe09260752029829d",
+      "bytes": 11038
+    },
+    {
+      "skill": "threejs-webgl",
+      "file": "threejs-webgl--0b893e18a2/references/optimization_checklist.md",
+      "sha256": "833584d45545d850cf28982e344ad7225d09c748345234892c14e51f23862a7e",
+      "bytes": 9675
+    },
+    {
+      "skill": "web3d-integration-patterns",
+      "file": "web3d-integration-patterns--290bd2db03/SKILL.md",
+      "sha256": "3c5f22042307a59751de6684fdae033c011048d5fe8d3a7525b9e51564254034",
+      "bytes": 21184
+    }
+  ],
+  "installedCopies": {
+    "aframe-webxr": [
+      {
+        "directory": "aframe-webxr--06fd3bd39b",
+        "skillSha256": "efa99e1b5148c7aafe5f0632f24e4357dff20bc3641e34ec13587d003b89ba13"
+      },
+      {
+        "directory": "aframe-webxr--586581813a",
+        "skillSha256": "efa99e1b5148c7aafe5f0632f24e4357dff20bc3641e34ec13587d003b89ba13"
+      },
+      {
+        "directory": "aframe-webxr--6ad4e623a5",
+        "skillSha256": "efa99e1b5148c7aafe5f0632f24e4357dff20bc3641e34ec13587d003b89ba13"
+      },
+      {
+        "directory": "aframe-webxr--82f11e13f2",
+        "skillSha256": "efa99e1b5148c7aafe5f0632f24e4357dff20bc3641e34ec13587d003b89ba13"
+      }
+    ],
+    "animated-component-libraries": [
+      {
+        "directory": "animated-component-libraries--0c7865e9df",
+        "skillSha256": "d47558883373e7ea40bea8c6d366c8c8196671ebc12436621afa31ebe84a53a4"
+      },
+      {
+        "directory": "animated-component-libraries--2a83491439",
+        "skillSha256": "d47558883373e7ea40bea8c6d366c8c8196671ebc12436621afa31ebe84a53a4"
+      },
+      {
+        "directory": "animated-component-libraries--7020e15a2e",
+        "skillSha256": "d47558883373e7ea40bea8c6d366c8c8196671ebc12436621afa31ebe84a53a4"
+      },
+      {
+        "directory": "animated-component-libraries--8b15821dd0",
+        "skillSha256": "d47558883373e7ea40bea8c6d366c8c8196671ebc12436621afa31ebe84a53a4"
+      }
+    ],
+    "animejs": [
+      {
+        "directory": "animejs--06a1ea9dd0",
+        "skillSha256": "174bfb2676bfd49611ff71fa0205b7d1130e7bb0caba45923cd61946201cf8ac"
+      },
+      {
+        "directory": "animejs--a86b3a6efe",
+        "skillSha256": "174bfb2676bfd49611ff71fa0205b7d1130e7bb0caba45923cd61946201cf8ac"
+      },
+      {
+        "directory": "animejs--abae8986c9",
+        "skillSha256": "174bfb2676bfd49611ff71fa0205b7d1130e7bb0caba45923cd61946201cf8ac"
+      },
+      {
+        "directory": "animejs--e8bcc3ede2",
+        "skillSha256": "174bfb2676bfd49611ff71fa0205b7d1130e7bb0caba45923cd61946201cf8ac"
+      }
+    ],
+    "babylonjs-engine": [
+      {
+        "directory": "babylonjs-engine--0ac2786d78",
+        "skillSha256": "007f9d03ac0f308179a9147b99562658ead6ca9f6fa9b7abbcb07dd26e9f18a5"
+      },
+      {
+        "directory": "babylonjs-engine--1eb6105aa7",
+        "skillSha256": "007f9d03ac0f308179a9147b99562658ead6ca9f6fa9b7abbcb07dd26e9f18a5"
+      },
+      {
+        "directory": "babylonjs-engine--90ab2f90d1",
+        "skillSha256": "007f9d03ac0f308179a9147b99562658ead6ca9f6fa9b7abbcb07dd26e9f18a5"
+      },
+      {
+        "directory": "babylonjs-engine--f4a2db8e05",
+        "skillSha256": "007f9d03ac0f308179a9147b99562658ead6ca9f6fa9b7abbcb07dd26e9f18a5"
+      }
+    ],
+    "barba-js": [
+      {
+        "directory": "barba-js--23cd7f4a6a",
+        "skillSha256": "505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434"
+      },
+      {
+        "directory": "barba-js--927848b128",
+        "skillSha256": "505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434"
+      },
+      {
+        "directory": "barba-js--9897eae53d",
+        "skillSha256": "505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434"
+      },
+      {
+        "directory": "barba-js--ad9cb67ef7",
+        "skillSha256": "505abfc560b3738be60bae33a45d17898779bdcd5211ae9f2bb8ff58cc8cf434"
+      }
+    ],
+    "blender-web-pipeline": [
+      {
+        "directory": "blender-web-pipeline--7b74e07989",
+        "skillSha256": "788e4c2fa8d559b5f682a0c49c87159bed06207fd04119ec6f8c3fc7203a7b4c"
+      },
+      {
+        "directory": "blender-web-pipeline--94a2b572cd",
+        "skillSha256": "788e4c2fa8d559b5f682a0c49c87159bed06207fd04119ec6f8c3fc7203a7b4c"
+      },
+      {
+        "directory": "blender-web-pipeline--aec3187401",
+        "skillSha256": "788e4c2fa8d559b5f682a0c49c87159bed06207fd04119ec6f8c3fc7203a7b4c"
+      },
+      {
+        "directory": "blender-web-pipeline--e4a9970db3",
+        "skillSha256": "788e4c2fa8d559b5f682a0c49c87159bed06207fd04119ec6f8c3fc7203a7b4c"
+      }
+    ],
+    "gsap-scrolltrigger": [
+      {
+        "directory": "gsap-scrolltrigger--0e43fc26fa",
+        "skillSha256": "8d827576329ffb47e7f434dce71e681627f29c513eefe3698584830f5c90099f"
+      },
+      {
+        "directory": "gsap-scrolltrigger--27e3281acc",
+        "skillSha256": "8d827576329ffb47e7f434dce71e681627f29c513eefe3698584830f5c90099f"
+      },
+      {
+        "directory": "gsap-scrolltrigger--d7727bdb95",
+        "skillSha256": "8d827576329ffb47e7f434dce71e681627f29c513eefe3698584830f5c90099f"
+      },
+      {
+        "directory": "gsap-scrolltrigger--d94d412a01",
+        "skillSha256": "8d827576329ffb47e7f434dce71e681627f29c513eefe3698584830f5c90099f"
+      }
+    ],
+    "lightweight-3d-effects": [
+      {
+        "directory": "lightweight-3d-effects--0771b5cf54",
+        "skillSha256": "d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7"
+      },
+      {
+        "directory": "lightweight-3d-effects--5479205af0",
+        "skillSha256": "d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7"
+      },
+      {
+        "directory": "lightweight-3d-effects--582ccbb474",
+        "skillSha256": "d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7"
+      },
+      {
+        "directory": "lightweight-3d-effects--7c0635dbd4",
+        "skillSha256": "d0ae4223cce30dbf075a2ce8e6c12a51dc66f996384751820f15f6dd7228d8f7"
+      }
+    ],
+    "locomotive-scroll": [
+      {
+        "directory": "locomotive-scroll--1206a335c8",
+        "skillSha256": "cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553"
+      },
+      {
+        "directory": "locomotive-scroll--387181f7e3",
+        "skillSha256": "cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553"
+      },
+      {
+        "directory": "locomotive-scroll--5ad22bc053",
+        "skillSha256": "cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553"
+      },
+      {
+        "directory": "locomotive-scroll--d99fb762a2",
+        "skillSha256": "cfb107ae328e100ad1ca89554fbf590a15330daa1ba861540bb0481948f77553"
+      }
+    ],
+    "lottie-animations": [
+      {
+        "directory": "lottie-animations--23f5b164dd",
+        "skillSha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18"
+      },
+      {
+        "directory": "lottie-animations--73ce69aa63",
+        "skillSha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18"
+      },
+      {
+        "directory": "lottie-animations--b30c731158",
+        "skillSha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18"
+      },
+      {
+        "directory": "lottie-animations--cb1003f3c5",
+        "skillSha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18"
+      }
+    ],
+    "modern-web-design": [
+      {
+        "directory": "modern-web-design--30eb030e93",
+        "skillSha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24"
+      },
+      {
+        "directory": "modern-web-design--5f323ad681",
+        "skillSha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24"
+      },
+      {
+        "directory": "modern-web-design--be1e27dfcc",
+        "skillSha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24"
+      },
+      {
+        "directory": "modern-web-design--e809efecae",
+        "skillSha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24"
+      }
+    ],
+    "motion-framer": [
+      {
+        "directory": "motion-framer--3329d5f9a9",
+        "skillSha256": "37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b"
+      },
+      {
+        "directory": "motion-framer--3d3cb1da76",
+        "skillSha256": "37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b"
+      },
+      {
+        "directory": "motion-framer--4f94bf18f1",
+        "skillSha256": "37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b"
+      },
+      {
+        "directory": "motion-framer--6c48f2d4d6",
+        "skillSha256": "37b0a6fb2470feca368cf96f8058456b81dd17385a9c35334b794628d7c7981b"
+      }
+    ],
+    "pixijs-2d": [
+      {
+        "directory": "pixijs-2d--3a87ea95ae",
+        "skillSha256": "bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d"
+      },
+      {
+        "directory": "pixijs-2d--436415bca3",
+        "skillSha256": "bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d"
+      },
+      {
+        "directory": "pixijs-2d--888dd3cd90",
+        "skillSha256": "bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d"
+      },
+      {
+        "directory": "pixijs-2d--cf5754aa26",
+        "skillSha256": "bbae14f6bd724f7a394d3f9e5b6326661806d4f171f81b8e92c03ad8c86f7f9d"
+      }
+    ],
+    "playcanvas-engine": [
+      {
+        "directory": "playcanvas-engine--158eed6377",
+        "skillSha256": "5b4abe83ccc3c3c531bc088b210d4b7510610a6a89b0c92df80e7d3f9fcb3622"
+      },
+      {
+        "directory": "playcanvas-engine--68f519b6aa",
+        "skillSha256": "5b4abe83ccc3c3c531bc088b210d4b7510610a6a89b0c92df80e7d3f9fcb3622"
+      },
+      {
+        "directory": "playcanvas-engine--a31ee12c37",
+        "skillSha256": "5b4abe83ccc3c3c531bc088b210d4b7510610a6a89b0c92df80e7d3f9fcb3622"
+      },
+      {
+        "directory": "playcanvas-engine--a87f38cbdd",
+        "skillSha256": "5b4abe83ccc3c3c531bc088b210d4b7510610a6a89b0c92df80e7d3f9fcb3622"
+      }
+    ],
+    "react-spring-physics": [
+      {
+        "directory": "react-spring-physics--12c44a1f6d",
+        "skillSha256": "d47b271de8bebfc0d3ed93076bc49969df7ce0422a0f25f68db50b30cbbd3b9b"
+      },
+      {
+        "directory": "react-spring-physics--35680bda4c",
+        "skillSha256": "d47b271de8bebfc0d3ed93076bc49969df7ce0422a0f25f68db50b30cbbd3b9b"
+      },
+      {
+        "directory": "react-spring-physics--8b642ab279",
+        "skillSha256": "d47b271de8bebfc0d3ed93076bc49969df7ce0422a0f25f68db50b30cbbd3b9b"
+      },
+      {
+        "directory": "react-spring-physics--9c1e49f1c5",
+        "skillSha256": "d47b271de8bebfc0d3ed93076bc49969df7ce0422a0f25f68db50b30cbbd3b9b"
+      }
+    ],
+    "react-three-fiber": [
+      {
+        "directory": "react-three-fiber--245c96c32e",
+        "skillSha256": "f9747e9e93bf939a1eff4a1c845146f38d8f9e06655be58653a9f95f36c342cc"
+      },
+      {
+        "directory": "react-three-fiber--99326476b8",
+        "skillSha256": "f9747e9e93bf939a1eff4a1c845146f38d8f9e06655be58653a9f95f36c342cc"
+      },
+      {
+        "directory": "react-three-fiber--b5b2d4ad0e",
+        "skillSha256": "f9747e9e93bf939a1eff4a1c845146f38d8f9e06655be58653a9f95f36c342cc"
+      },
+      {
+        "directory": "react-three-fiber--f5b840ab91",
+        "skillSha256": "f9747e9e93bf939a1eff4a1c845146f38d8f9e06655be58653a9f95f36c342cc"
+      }
+    ],
+    "rive-interactive": [
+      {
+        "directory": "rive-interactive--0ca82673ac",
+        "skillSha256": "62e7b09412f80d981389f3544bd482ea1d500c74169f579b0b0daac434f9b61d"
+      },
+      {
+        "directory": "rive-interactive--690f439719",
+        "skillSha256": "62e7b09412f80d981389f3544bd482ea1d500c74169f579b0b0daac434f9b61d"
+      },
+      {
+        "directory": "rive-interactive--a087a3f02f",
+        "skillSha256": "62e7b09412f80d981389f3544bd482ea1d500c74169f579b0b0daac434f9b61d"
+      },
+      {
+        "directory": "rive-interactive--a62c7208eb",
+        "skillSha256": "62e7b09412f80d981389f3544bd482ea1d500c74169f579b0b0daac434f9b61d"
+      }
+    ],
+    "scroll-reveal-libraries": [
+      {
+        "directory": "scroll-reveal-libraries--45e62e7506",
+        "skillSha256": "bb1fcc5e43e398be37a65db9f270d715ae720da796be4a7a8a7090560a7685c9"
+      },
+      {
+        "directory": "scroll-reveal-libraries--513ea41fb5",
+        "skillSha256": "bb1fcc5e43e398be37a65db9f270d715ae720da796be4a7a8a7090560a7685c9"
+      },
+      {
+        "directory": "scroll-reveal-libraries--9fcf2ec39c",
+        "skillSha256": "bb1fcc5e43e398be37a65db9f270d715ae720da796be4a7a8a7090560a7685c9"
+      },
+      {
+        "directory": "scroll-reveal-libraries--a42adf86a3",
+        "skillSha256": "bb1fcc5e43e398be37a65db9f270d715ae720da796be4a7a8a7090560a7685c9"
+      }
+    ],
+    "skill-creator": [
+      {
+        "directory": "skill-creator--49cb01e198",
+        "skillSha256": "8c0ce23bb87be91f5b0853c2e9815617c3858b63acdddfe5da47d2c2d3a60816"
+      }
+    ],
+    "spline-interactive": [
+      {
+        "directory": "spline-interactive--5eb2ddb68e",
+        "skillSha256": "64ca804efead449481d62419cb30365403d421c600514ad94d47afa62799ac46"
+      },
+      {
+        "directory": "spline-interactive--9d4b0f21d1",
+        "skillSha256": "64ca804efead449481d62419cb30365403d421c600514ad94d47afa62799ac46"
+      },
+      {
+        "directory": "spline-interactive--9dcd8a1519",
+        "skillSha256": "64ca804efead449481d62419cb30365403d421c600514ad94d47afa62799ac46"
+      },
+      {
+        "directory": "spline-interactive--d4b96f36c6",
+        "skillSha256": "64ca804efead449481d62419cb30365403d421c600514ad94d47afa62799ac46"
+      }
+    ],
+    "substance-3d-texturing": [
+      {
+        "directory": "substance-3d-texturing--5262589fde",
+        "skillSha256": "89c052fdb27d67031f68178ddbb837a799965d9642b3858be527f4f805840ec8"
+      },
+      {
+        "directory": "substance-3d-texturing--9ca2cee464",
+        "skillSha256": "89c052fdb27d67031f68178ddbb837a799965d9642b3858be527f4f805840ec8"
+      },
+      {
+        "directory": "substance-3d-texturing--bad6e8ceb6",
+        "skillSha256": "89c052fdb27d67031f68178ddbb837a799965d9642b3858be527f4f805840ec8"
+      },
+      {
+        "directory": "substance-3d-texturing--c613949783",
+        "skillSha256": "89c052fdb27d67031f68178ddbb837a799965d9642b3858be527f4f805840ec8"
+      }
+    ],
+    "threejs-webgl": [
+      {
+        "directory": "threejs-webgl--0b893e18a2",
+        "skillSha256": "2fb912c851db124e212afdd2e80b5213f756ca62af6e2eb50de320f6f8ba4f9e"
+      },
+      {
+        "directory": "threejs-webgl--2760dc636d",
+        "skillSha256": "2fb912c851db124e212afdd2e80b5213f756ca62af6e2eb50de320f6f8ba4f9e"
+      },
+      {
+        "directory": "threejs-webgl--4c9e94507a",
+        "skillSha256": "2fb912c851db124e212afdd2e80b5213f756ca62af6e2eb50de320f6f8ba4f9e"
+      },
+      {
+        "directory": "threejs-webgl--b895f765e8",
+        "skillSha256": "2fb912c851db124e212afdd2e80b5213f756ca62af6e2eb50de320f6f8ba4f9e"
+      }
+    ],
+    "web3d-integration-patterns": [
+      {
+        "directory": "web3d-integration-patterns--290bd2db03",
+        "skillSha256": "3c5f22042307a59751de6684fdae033c011048d5fe8d3a7525b9e51564254034"
+      },
+      {
+        "directory": "web3d-integration-patterns--5781873139",
+        "skillSha256": "3c5f22042307a59751de6684fdae033c011048d5fe8d3a7525b9e51564254034"
+      },
+      {
+        "directory": "web3d-integration-patterns--8932f21eb3",
+        "skillSha256": "3c5f22042307a59751de6684fdae033c011048d5fe8d3a7525b9e51564254034"
+      },
+      {
+        "directory": "web3d-integration-patterns--cf3fa36f48",
+        "skillSha256": "3c5f22042307a59751de6684fdae033c011048d5fe8d3a7525b9e51564254034"
+      }
+    ]
+  },
+  "unavailableAdvertisedReferences": [
+    "motion-framer/variants_patterns.md",
+    "motion-framer/gesture_guide.md",
+    "react-three-fiber/hooks_guide.md",
+    "react-three-fiber/drei_helpers.md",
+    "scroll-reveal-libraries/integration_patterns.md",
+    "web3d-integration-patterns/architecture_patterns.md",
+    "web3d-integration-patterns/performance_optimization.md",
+    "web3d-integration-patterns/state_management.md"
+  ],
+  "source": "https://github.com/freshtechbro/claudedesignskills",
+  "provenance": "Local fetched Git object verified during this run; each distinct installed SKILL.md byte-matched revision. Temporary bare source disappeared afterward; source revision and matches were recorded before disappearance. No remote GitHub operation."
+}

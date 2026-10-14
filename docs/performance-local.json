@@ -1,0 +1,87 @@
+{
+  "environment": "Local headless Chromium, unthrottled; not field Core Web Vitals or device FPS",
+  "results": [
+    {
+      "width": 390,
+      "cls": 0,
+      "lcp": 172,
+      "longTasks": 1,
+      "resources": [
+        {
+          "name": "/_next/image",
+          "transferSize": 7852
+        },
+        {
+          "name": "/_next/static/chunks/2nj9boc7jqech.css",
+          "transferSize": 5116
+        },
+        {
+          "name": "/_next/static/chunks/31qp8jfkw0x2h.js",
+          "transferSize": 7711
+        },
+        {
+          "name": "/_next/static/chunks/2cwx0s17guqmh.js",
+          "transferSize": 48599
+        },
+        {
+          "name": "/_next/static/chunks/0s7mvllxht1mo.js",
+          "transferSize": 72199
+        },
+        {
+          "name": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+          "transferSize": 4240
+        },
+        {
+          "name": "/_next/static/chunks/0umf92h1sb77c.js",
+          "transferSize": 3814
+        },
+        {
+          "name": "/_next/static/chunks/3iqouypgmedjq.js",
+          "transferSize": 7388
+        }
+      ],
+      "domNodes": 208
+    },
+    {
+      "width": 1440,
+      "cls": 0,
+      "lcp": 180,
+      "longTasks": 1,
+      "resources": [
+        {
+          "name": "/_next/image",
+          "transferSize": 7852
+        },
+        {
+          "name": "/_next/static/chunks/2nj9boc7jqech.css",
+          "transferSize": 5116
+        },
+        {
+          "name": "/_next/static/chunks/31qp8jfkw0x2h.js",
+          "transferSize": 7711
+        },
+        {
+          "name": "/_next/static/chunks/2cwx0s17guqmh.js",
+          "transferSize": 48599
+        },
+        {
+          "name": "/_next/static/chunks/0s7mvllxht1mo.js",
+          "transferSize": 72199
+        },
+        {
+          "name": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+          "transferSize": 4240
+        },
+        {
+          "name": "/_next/static/chunks/0umf92h1sb77c.js",
+          "transferSize": 3814
+        },
+        {
+          "name": "/_next/static/chunks/3iqouypgmedjq.js",
+          "transferSize": 7388
+        }
+      ],
+      "domNodes": 208
+    }
+  ]
+}
